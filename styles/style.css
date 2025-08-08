@@ -905,7 +905,6 @@ footer{
 .btn-container{
     margin-top: 50px;
     width: 250px;
-    border: 2px solid red;
 }
 .btn-01{
   flex: 1; /* সব বাটন সমান প্রস্থ পাবে */
